@@ -2,21 +2,25 @@
 
 let Squadre = [
     {
-        name: "juventus",
-        puntiFatti: "2",
+        name,
+        puntiFatti: 0,
+        puntiSubiti: 0,
 
     },
     {
-        name: "Atalanta",
-        puntiFatti: "3",
+        name,
+        puntiFatti: 0,
+        puntiSubiti: 0,
     },
     {
-        name: "Roma",
-        puntiFatti: "1",
+        name,
+        puntiFatti: 0,
+        puntiSubiti: 0,
     },
     {
-        name: "RomaT",
-        puntiFatti: "6",
+        name,
+        puntiFatti: 0,
+        puntiSubiti: 0,
     }
 ]
 
