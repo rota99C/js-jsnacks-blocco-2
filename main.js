@@ -2,26 +2,35 @@
 
 let Squadre = [
     {
-        name,
+        name: juventus,
         puntiFatti: 0,
         puntiSubiti: 0,
 
     },
     {
-        name,
+        name: Roma,
         puntiFatti: 0,
         puntiSubiti: 0,
     },
     {
-        name,
+        name: lazio,
         puntiFatti: 0,
         puntiSubiti: 0,
     },
     {
-        name,
+        name: atalanta,
         puntiFatti: 0,
         puntiSubiti: 0,
     }
 ]
+
+
+//generare punti random a lle proprietà che hanno 0 
+
+for (let i = 0; i < squadre.length; i++) {
+    let squadra = squadre[i];
+
+    console.log(squadra);
+}
 
 
