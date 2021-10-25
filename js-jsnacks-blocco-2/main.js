@@ -12,7 +12,7 @@ let bicilette = [
     },
     {
         name: "KONA",
-        peso: "25kg",
+        peso: "15kg",
     },
     {
         name: "SCOTT",
@@ -20,4 +20,13 @@ let bicilette = [
     }
 ]
 
+
+let BiciclttePeso = []
+
 //Stampare a schermo la bici con peso minore. 
+
+
+for (let index = 0; index < biciclette.length; index++) {
+    const element = biciclette[index];
+}
+
